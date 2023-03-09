@@ -22,7 +22,7 @@ k.then((response) => {
         <p>Start at :${contest[item].start_time}
         <p>end at :${contest[item].end_time}
         <div class="buttoon" >
-        <a href="${contest[item].url}"><a href="#" class="btn btn-primary" style="display:block">Visit contest</a>
+        <a href="${contest[item].url}" class="btn btn-primary" style="display:block">Visit contest</a>
       </div></div>
     </div>
  `
