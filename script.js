@@ -19,6 +19,7 @@ k.then((response) => {
             <div class="card-body">
         <h5 class="card-title">${contest[item].name}</h5>
         <p class="card-text">Visit here</a></p>
+        p class="card-text">Side status is ${contest[item].status} and site is ${contest[item].side} </a></p>
         <p>Start at :${contest[item].start_time}
         <p>end at :${contest[item].end_time}
         <div class="buttoon" >
