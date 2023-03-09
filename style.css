@@ -1,0 +1,28 @@
+.html {
+  height: 100%;
+  width: 100%;
+}
+.box{
+  padding:15px;
+}
+.jumbotron
+{    background-color: #e6e0e0;
+      width: 49vw;
+/*     border: 1px solid; */
+    /* justify-content: center; */
+    text-align: center;
+  margin:auto;
+box-shadow: -1px 17px 17px;
+  border-radius:13px;
+ padding:30px;
+}
+.card
+{
+  margin:auto;
+}
+.container{
+  padding:30px;
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
